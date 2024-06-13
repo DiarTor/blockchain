@@ -70,6 +70,4 @@ All necessary dependencies are listed in the `requirements.txt` file.
 For support or questions, you can reach me on:
 
 - Telegram: [@DiarTor](https://t.me/DiarTor)
-- Instagram: [Your Instagram Handle](https://instagram.com/YourInstagramHandle)
-
-```
+- Instagram: [DiarTor](https://instagram.com/diartor)
