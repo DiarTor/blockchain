@@ -34,9 +34,9 @@ python app/api.py
 
 Once the server is running, you can make requests to the API to interact with the blockchain.
 
-*Note: You can Use PostMan to Make The Api requests*
+**Go To ```app/examples```to See The Examples And Test The Code**
 
-**Go To ```app/examples```to See The Examples**
+*Note: You can also use Postman to make the Api requests*
 
 ## Features
 
