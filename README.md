@@ -4,7 +4,8 @@ A simple blockchain implementation written in Python with a Flask-based API.
 
 ## Description
 
-This project is a basic blockchain written in Python, utilizing Flask to provide a RESTful API. It allows users to make transactions and interact with the blockchain via API requests.
+This project is a basic blockchain written in Python, utilizing Flask to provide a RESTful API. It allows users to make
+transactions and interact with the blockchain via API requests.
 
 ## Installation
 
@@ -26,12 +27,16 @@ To set up the project, follow these steps:
 ## Usage
 
 To run the API, execute the following command from the `app` directory:
+
 ```sh
 python app/api.py
 ```
+
 Once the server is running, you can make requests to the API to interact with the blockchain.
 
 *Note: You can Use PostMan to Make The Api requests*
+
+**Go To ```app/examples```to See The Examples**
 
 ## Features
 
@@ -63,6 +68,8 @@ All necessary dependencies are listed in the `requirements.txt` file.
 ## Contact
 
 For support or questions, you can reach me on:
+
 - Telegram: [@DiarTor](https://t.me/DiarTor)
 - Instagram: [Your Instagram Handle](https://instagram.com/YourInstagramHandle)
+
 ```
