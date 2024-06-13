@@ -1,5 +1,3 @@
-Sure, here's a draft for your `README.md` file based on the information you provided:
-
 # BlockChain
 
 A simple blockchain implementation written in Python with a Flask-based API.
