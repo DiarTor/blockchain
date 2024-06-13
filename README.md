@@ -12,7 +12,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/blockchain.git
+    git clone https://github.com/DiarTor/blockchain.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -66,5 +66,3 @@ For support or questions, you can reach me on:
 - Telegram: [@DiarTor](https://t.me/DiarTor)
 - Instagram: [Your Instagram Handle](https://instagram.com/YourInstagramHandle)
 ```
-
-Feel free to replace `https://github.com/yourusername/blockchain.git` with the actual URL of your GitHub repository and adjust any other details as necessary. If you have any more information or modifications you'd like to include, let me know!
